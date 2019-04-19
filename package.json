@@ -1,0 +1,22 @@
+{
+  "name": "idaten-core",
+  "version": "1.2.0",
+  "description": "This module translate markdown to slide.",
+  "main": "index.js",
+  "scripts": {
+    "start": "jest --watchAll",
+    "build": "webpack",
+    "lint": "tslint --fix src/*.ts tests/*.ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1day-release/idaten-core.git"
+  },
+  "author": "1Day Release",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1day-release/idaten-core/issues"
+  },
+  "homepage": "https://github.com/1day-release/idaten-core#readme"
+}
